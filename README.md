@@ -59,4 +59,15 @@ The Expense Tracking Database Management System `DBMS` project is a user-friendl
 
 ---
 
-![Home Page](uploads/Home-Page.png)
+## Add Expense Page
+![Add Expense](images/addExpense.png)
+
+## Dashboard Page
+![Dashboard](images/dashboard.png)
+
+## Manage Expense Page
+![Manage Expense](images/manageExpense.png)
+
+## Profile Page
+![Profile](images/profile.png)
+
